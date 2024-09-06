@@ -1,0 +1,30 @@
+.about{
+    height: 500px;
+    width: 800px;
+   background-image: url(https://tse4.mm.bing.net/th?id=OIP.WJB1fuqkiDFMKhlweLTueAHaGl&pid=Api&P=0&h=220);
+   background-repeat: no-repeat;
+   background-size: cover;
+    color: rgb(0, 0, 0);
+}
+.about:hover{
+    color: black;
+    font-size: large;
+    transition: 0.6s;
+}
+.s> button> li> a{
+    height: 60px;
+    width: 60px;
+    color: black;
+background-color: rgb(255, 255, 255);
+    text-decoration:underline white;
+    border: 2px solid white;
+}
+.s> button> li{
+    list-style: none;
+}
+.s> button> li> a:hover{
+    height: 90px;
+    width: 90px;
+    font-size: large;
+    transition: 0.4s;
+}

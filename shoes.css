@@ -1,0 +1,33 @@
+body{
+ 
+    background-color: rgb(170, 192, 194);
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.ZxQM47KwVgtd2WpzealytQHaHa&pid=Api&P=0&h=220);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.brands{
+    height: 28px;
+    width: 40px;
+
+    display: inline;
+    padding: 5px 5px 5px 5px;
+}
+.brands> ul{
+    display: flex;
+}
+.brands> ul> li{
+    list-style: none;
+}
+.brands> ul> li> a{
+    color: white;
+    padding: 7px 7px 7px 7px;
+}
+.brands> ul> li> a:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(3, 255, 58);
+    transition: 0.5s;
+    font-size:larger;
+font-weight: bold;
+font-family:Arial, Helvetica, sans-serif;
+}
